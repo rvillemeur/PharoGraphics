@@ -134,7 +134,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-12-06T16:12:12.796814-05:00"
+						"dateAndTimeString" : "2025-12-06T16:12:01.225256-05:00"
 					}
 				},
 				"uid" : {
@@ -144,41 +144,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Produce a Markdown file programmatically"
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-12-06T16:12:16.096009-05:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-12-06T16:12:18.437078-05:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "bX8p+L/0RMyYA+zmi1da6g=="
-				},
-				"code" : "pages := LeDatabase gtBook pages.\naFile := FileLocator temp / 'GToolkitBook.txt'.\naFile ensureDelete.\naFile\n    writeStreamDo: [ :aStream | \n        pages\n            do: [ :aPage | \n                aStream\n                    nextPutAll: (GtLlmLepiterContentExporter new\n                            page: aPage;\n                            export) ] ].\naFile"
+				"string" : "Produice"
 			}
 		]
 	},
