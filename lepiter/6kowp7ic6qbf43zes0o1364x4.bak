@@ -316,14 +316,51 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-09-19T15:18:59.023-04:00"
+						"dateAndTimeString" : "2024-08-20T19:05:21.652-04:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "IIpXMofcDQC0NNv1CLAeyQ=="
 				},
-				"code" : "self database tableOfContentsPageID: self u"
+				"code" : "self database tableOfContentsPageID: self uid"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-01-26T14:53:34.792-05:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-01-26T14:53:46.038-05:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mHVUdfoLw0aeVoTVBZJqXA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#exporter un base lepiter en mark"
 			}
 		]
 	},
